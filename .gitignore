@@ -396,7 +396,3 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,django,pycharm
-
-
-# just for this project, we should ignore settings.py
-**/**settings.py
